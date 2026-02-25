@@ -39,4 +39,20 @@ classDiagram
 
 - **Material Icon Theme**: Tema para Colorir as pastas.
 
-- **Git Lens**: Interface gráfica para o versionamento git integrada no VSCode
+- **Git Lens**: Interface gráfica para o versionamento .git integrada no VSCode.
+
+# MySQL
+
+- Banco de Dados: Programa hospedado na máquina, com objetivo de persistir os dados fisicamente no HD.
+
+- Base de Dados: Conjunto de tabelas.
+
+- Tabelas: Conjunto de registros.
+
+- Registros: Uma linha na tabela, contendo a informação dos seus atributos.
+
+- Atributos: Uma das caracteristicas da tabela (Colunas).
+
+## Bibliotecas Python
+
+Python 
